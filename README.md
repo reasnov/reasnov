@@ -32,7 +32,7 @@ Welcome to my GitHub profile! ⭐ I'm a passionate Fullstack Web Developer with 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=reasnov&layout=compact&hide_title=false&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=58a6ff&title_color=ffffff" alt="reasnov's top languages" />
 
 ### GitHub Streak
-<img src="https://streak-stats.demolab.com?user=reasnov&theme=synthwave&background=00000000" alt="reasnov's GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=reasnov&theme=synthwave&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=border&background=%2300000000" alt="reasnov's GitHub streak" />
 
 ### GitHub Trophies
 <img src="https://github-trophies.vercel.app/?username=reasnov&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="reasnov's GitHub trophies" />
