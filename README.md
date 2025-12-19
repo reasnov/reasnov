@@ -5,7 +5,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Role-Fullstack_Developer-blue">
   <img alt="Static Badge" src="https://img.shields.io/badge/Frontend-Astro_%2B_Svelte-white?logo=astro&logoColor=orange">
   <img alt="Static Badge" src="https://img.shields.io/badge/Backend-Laravel-red?style=flat&logo=laravel&logoColor=white" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/API-RESTFul-informational" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/API-RESTful-informational" />
   <img alt="Static Badge" src="https://img.shields.io/badge/Code%20Quality-Clean_&_Secure-success">
 </p>
 
