@@ -1,7 +1,6 @@
 # Hello, I'm Reas Vyn 👋
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/reasnov?label=Followers&style=flat" />
   <img alt="Static Badge" src="https://img.shields.io/badge/Role-Fullstack_Developer-blue">
   <img alt="Static Badge" src="https://img.shields.io/badge/Frontend-Astro_%2B_Svelte-white?logo=astro&logoColor=orange">
   <img alt="Static Badge" src="https://img.shields.io/badge/Backend-Laravel_&_NextJS-red?style=flat&logo=laravel&logoColor=brightred" />
