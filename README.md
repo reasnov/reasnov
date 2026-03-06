@@ -12,11 +12,11 @@ Welcome to my GitHub profile! ⭐ I'm a passionate Fullstack Web Developer with 
 
 ## 💻 Technologies & Tools
 
-- **Languages**: PHP, JavaScript, TypeScript, HTML, CSS
+- **Languages**: PHP, JavaScript, TypeScript, Rust
 - **Frameworks**: Laravel, NextJS, ExpressJS, Astro, Svelte
 - **Databases**: PostgreSQL, MySQL, SQLite, Redis
 - **Tools & Platforms**: Docker, AWS, GitHub
-- **Testing**: Pest, PHPUnit, Jest
+- **Testing**: Pest, Vitest, Jest
 - **Others**: RESTful APIs, Git, Linux
 
 ## 🚀 Highlights
