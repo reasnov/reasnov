@@ -1,32 +1,43 @@
 # Hello, I'm Reas Vyn 👋
 
 <p align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Role-Fullstack_Developer-blue">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Frontend-Astro_%2B_Svelte-white?logo=astro&logoColor=orange">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Backend-Laravel_&_NextJS-red?style=flat&logo=laravel&logoColor=brightred" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/API-RESTful-informational" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/Code%20Quality-Clean_&_Secure-success">
+  <img src="https://img.shields.io/badge/Ecosystem-Secure_Sustain_Scalable-2ea44f" alt="Static Badge">
+  <img src="https://img.shields.io/badge/Status-Open_for_Projects-success?logo=workplace" alt="Open for Projects">
+  <img src="https://img.shields.io/badge/Role-Freelance_Solopreneur-blue" alt="Freelance Role">
+  <img src="https://img.shields.io/github/stars/reasvyn?style=flat-square&label=Total%20Stars&color=yellow" alt="Total Stars">
+  <img src="https://komarev.com/ghpvc/?username=reasvyn&color=blueviolet&style=flat-square&label=Profile%20Views" alt="Profile Views">
 </p>
 
-Welcome to my GitHub profile! ⭐ I'm a passionate Fullstack Web Developer with a strong focus on creating elegant, efficient, and user-friendly web applications. With a deep love for clean code and a keen eye for detail, I specialize in building robust solutions using Laravel and modern web technologies.
+### **"Building quietly, for a faithful impact."** 🌿
+As a **Solopreneur**, my focus is on crafting digital ecosystems that are safe, honest, and enduring—translating reliable logic into systems that serve with integrity.
 
-## 💻 Technologies & Tools
+---
 
-- **Languages**: PHP, JavaScript, TypeScript, Rust
-- **Frameworks**: Laravel, NextJS, ExpressJS, Astro, Svelte
-- **Databases**: PostgreSQL, MySQL, SQLite, Redis
-- **Tools & Platforms**: Docker, AWS, GitHub
-- **Testing**: Pest, Vitest, Jest
-- **Others**: RESTful APIs, Git, Linux
+### 🛡️ Secure
+**Building with integrity.** Ensuring a safe harbor for data and users. Every line of code is written to protect what is entrusted to the system.
+
+### 🌱 Sustain
+**Coding for the long run.** Prioritizing health and clean architecture. I build systems intended to thrive and maintain their stability over time.
+
+### 🚀 Scalable
+**Growing with order.** Ensuring that as an ecosystem expands, it remains efficient, orderly, and true to its original purpose.
+
+---
+
+## 🛠️ Main Tech Stacks
+
+- **Core Logic**: Rust, TypeScript, PHP
+- **Frameworks**: Laravel, NextJS, Astro, Svelte
+- **Databases**: PostgreSQL, Redis, Event Sourcing
+- **Infrastructure**: Docker, AWS, Linux
 
 ## 🚀 Highlights
 
-- 🏆 **Laravel Specialist**: Extensive experience in developing complex web applications with the Laravel ecosystem since 2019.
-- 💡 **Full-Stack Expertise**: Proficient in both front-end and back-end development, delivering complete and seamless user experiences.
-- 🌐 **Open-Source Contributor**: Actively contributing to open-source projects and sharing knowledge with the developer community.
-- Freelancing since 2020.
+- 🕊️ **Stewardship**: Building software with a focus on responsibility and reliability since 2020.
+- 🏗️ **Independent Path**: Operating as a solopreneur to maintain a direct and honest focus on every project.
+- 🌐 **Open Ecosystems**: Contributing to the digital world through precise and stable logic.
 
-## 📈 GitHub Stats
+## 📈 Github Insights
 
 <table width="100%" align="center">
   <tr>
@@ -48,17 +59,10 @@ Welcome to my GitHub profile! ⭐ I'm a passionate Fullstack Web Developer with 
 ## 🏆 GitHub Trophies
 <img width="100%" height="auto" src="https://github-trophies.vercel.app/?username=reasvyn&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="reasvyn's GitHub trophies" />
 
-## 🛠️ Current Work
-
-I'm currently focusing on:
-- Diving deeper into advanced Laravel features and design patterns.
-- Exploring the potential of event-sourcing and CQRS in modern applications.
-- Contributing to the open-source community.
-
 ## 💬 Let's Connect
 
 - **LinkedIn**: [Reas Vyn](https://www.linkedin.com/in/reasvyn)
 - **Instagram**: [@reasvyn](https://instagram.com/reasvyn)
 - **Email**: [reasvyn@gmail.com](mailto:reasvyn@gmail.com)
 
-Thanks for stopping by! Let's build something amazing together. 🚀
+*Following the quietest guidance to build a faithful impact.* 🌿
