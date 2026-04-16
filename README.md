@@ -66,3 +66,7 @@ As a **Solopreneur**, my focus is on crafting digital ecosystems that are safe, 
 - **Email**: [reasvyn@gmail.com](mailto:reasvyn@gmail.com)
 
 *Following the quietest guidance to build a faithful impact.* 🌿
+
+---
+
+### 🫶 Support Me on [SociaBuzz](https://sociabuzz.com/reasvyn)
